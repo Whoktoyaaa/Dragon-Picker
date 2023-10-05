@@ -1,2 +1,2 @@
 # Dragon-Picker
-My first gayme
+My first game
